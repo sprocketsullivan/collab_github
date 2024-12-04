@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sprocketsullivan.github.io/collab_github/push.html</loc>
-    <lastmod>2024-12-04T14:19:32.566Z</lastmod>
-  </url>
-  <url>
     <loc>https://sprocketsullivan.github.io/collab_github/pull-request.html</loc>
-    <lastmod>2024-12-04T14:19:32.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sprocketsullivan.github.io/collab_github/merge.html</loc>
-    <lastmod>2024-12-04T14:19:32.561Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sprocketsullivan.github.io/collab_github/fork.html</loc>
-    <lastmod>2024-12-04T14:19:32.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sprocketsullivan.github.io/collab_github/clone.html</loc>
-    <lastmod>2024-12-04T14:19:32.528Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sprocketsullivan.github.io/collab_github/commit.html</loc>
-    <lastmod>2024-12-04T14:19:32.529Z</lastmod>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
   </url>
   <url>
     <loc>https://sprocketsullivan.github.io/collab_github/index.html</loc>
-    <lastmod>2024-12-04T14:19:32.561Z</lastmod>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
   </url>
   <url>
     <loc>https://sprocketsullivan.github.io/collab_github/plot_trait_evolution.html</loc>
-    <lastmod>2024-12-04T14:19:32.565Z</lastmod>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sprocketsullivan.github.io/collab_github/merge.html</loc>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sprocketsullivan.github.io/collab_github/push.html</loc>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sprocketsullivan.github.io/collab_github/commit.html</loc>
+    <lastmod>2024-12-04T14:19:09.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sprocketsullivan.github.io/collab_github/clone.html</loc>
+    <lastmod>2024-12-04T14:19:09.567Z</lastmod>
   </url>
   <url>
     <loc>https://sprocketsullivan.github.io/collab_github/pull-upstream.html</loc>
-    <lastmod>2024-12-04T14:19:32.565Z</lastmod>
+    <lastmod>2024-12-04T14:19:09.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sprocketsullivan.github.io/collab_github/fork.html</loc>
+    <lastmod>2024-12-04T14:19:09.567Z</lastmod>
   </url>
 </urlset>
